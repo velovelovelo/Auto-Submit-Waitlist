@@ -23,7 +23,7 @@ input your email `CTRL` + `X` `Y` `ENTER` and save
 ls
 nano main.py
 ```
-- change this to your local path `fill with the path directory your chrome path`
+- change this `fill with the path directory your chrome path` to your local path
 - example : C:/Users/velovelovelo/Downloads/chromedriver_win32/chromedriver.exe
 - if you dont have chrome driver , you can download here : https://chromedriver.chromium.org/downloads
 - select the  version of Google Chrome that you are using, then 'Extract' and see where the file is located
