@@ -23,7 +23,7 @@ input your email `CTRL` + `X` `Y` `ENTER` and save
 ls
 nano main.py
 ```
-- change this to your local path `INI_ISI_DENGAN_DIREKTORY_PATH_CHROME_DRIVER_ANDA`
+- change this to your local path `fill with the path directory your chrome path`
 - example : C:/Users/velovelovelo/Downloads/chromedriver_win32/chromedriver.exe
 - if you dont have chrome driver , you can download here : https://chromedriver.chromium.org/downloads
 - select the  version of Google Chrome that you are using, then 'Extract' and see where the file is located
@@ -34,7 +34,7 @@ nano main.py
 
 ```
 python main.py
-atau
+or
 python3 main.py
 ```
 
@@ -44,4 +44,4 @@ python3 main.py
 - `ENTER` script will be running
 - Done, finished
 
-Note :This script runs on a website that only fills in email and clicks on Join Waitlist (without email verification) if you have to confirm the email, you have to do it manually
+Note :This script runs on a website that only fills in email and clicks on Join Waitlist (without email verification) if you have to confirm the email, you have do it manually
